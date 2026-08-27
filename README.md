@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Daniel Diehl 👋</h1>
 
 <p align="center">
-  <strong>Analista de Governança de TI</strong><br>
+  <strong>Governança de TI</strong><br>
   Governança • Gestão de Serviços • Infraestrutura • Dados • Integrações e Automações
 </p>
 
