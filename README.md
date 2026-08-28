@@ -1,6 +1,6 @@
 # Daniel Diehl
 
-### Tecnologia da Informação | Governança de TI | Gestão de Serviços | Infraestrutura | Automação
+### Governança de TI | Gestão de TI 
 
 Profissional de Tecnologia da Informação com atuação voltada à **Governança de TI, Gestão de Serviços, Infraestrutura, Monitoramento, Inventário e Integração de Sistemas**.
 
