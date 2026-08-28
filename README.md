@@ -28,17 +28,6 @@ A proposta é transformar este espaço em um portfólio técnico e, ao mesmo tem
 
 Base prática de consulta para apoiar o **planejamento, estruturação, implementação, operação e melhoria de ambientes de Tecnologia da Informação**.
 
-Conteúdos relacionados a:
-
-- Arquitetura e Aplicações
-- Ativos e Configuração
-- Dados
-- Gestão de Serviços
-- Governança e Gestão
-- Infraestrutura
-- Monitoramento e Observabilidade
-- Segurança e Continuidade
-
 ---
 
 ### [Frameworks-and-Methods](https://github.com/Daniquiks/Frameworks-and-Methods)
