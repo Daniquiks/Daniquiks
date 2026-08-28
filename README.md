@@ -81,6 +81,7 @@ Principais áreas técnicas:
 - Virtualização
 - Windows Server
 - Zabbix
+- Grafana
 
 ---
 
@@ -93,6 +94,7 @@ Estudos e aplicações relacionados a:
 - Gestão de configuração
 - Inventário de TI
 - NetBox
+- OCS Inventory
 
 ---
 
