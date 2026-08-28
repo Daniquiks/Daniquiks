@@ -1,231 +1,89 @@
-# Daniel Diehl
+# Olá, eu sou Daniel Diehl
 
-### Governança de TI | Gestão de TI 
+Profissional de **Tecnologia da Informação**, com atuação e interesse em **Governança de TI, Gestão de Serviços, Infraestrutura, Monitoramento, Ativos de TI, Automação e Integração de Sistemas**.
 
-Profissional de Tecnologia da Informação com atuação voltada à **Governança de TI, Gestão de Serviços, Infraestrutura, Monitoramento, Inventário e Integração de Sistemas**.
+Criei este GitHub com o objetivo de **divulgar e apresentar meu trabalho**, compartilhar conhecimentos adquiridos ao longo da minha trajetória profissional e organizar projetos, estudos, documentação técnica, modelos e soluções que possam ser aplicados em ambientes reais de Tecnologia da Informação.
 
-Este perfil reúne estudos, documentação técnica, projetos e aplicações práticas desenvolvidos ao longo da minha evolução profissional em Tecnologia da Informação.
+A proposta é transformar este espaço em um portfólio técnico e, ao mesmo tempo, em uma base de consulta prática sobre os diferentes componentes que fazem parte da gestão e da operação de TI.
 
 ---
 
-## Áreas de Interesse
+## Áreas de atuação e interesse
 
-- Automação de processos de TI
+- Automação de processos
 - Governança de Inteligência Artificial
 - Governança de TI
-- Gestão de ativos e configuração
+- Gestão de Ativos e Configuração
 - Gestão de Serviços de TI
 - Infraestrutura de TI
 - Integração entre sistemas
-- Monitoramento e observabilidade
+- Monitoramento e Observabilidade
+- Segurança da Informação
 
 ---
 
-## Information Technology
-
-Minha principal base técnica está organizada no repositório:
+## Repositórios principais
 
 ### [Information-Technology](https://github.com/Daniquiks/Information-Technology)
 
-O repositório funciona como uma biblioteca técnica estruturada, organizada em grandes domínios da Tecnologia da Informação:
+Base prática de consulta para apoiar o **planejamento, estruturação, implementação, operação e melhoria de ambientes de Tecnologia da Informação**.
 
-1. Governança e Gestão
-2. Arquitetura e Aplicações
-3. Infraestrutura
-4. Dados
-5. Ativos e Configuração
-6. Monitoramento e Observabilidade
-7. Segurança da Informação
+Conteúdos relacionados a:
 
-A estrutura busca organizar o conhecimento de forma hierárquica, relacionando:
-
-```text
-Domínio
-   ↓
-Área
-   ↓
-Disciplina
-   ↓
-Framework / Norma / Tecnologia / Prática
-   ↓
-Conceito / Procedimento / Aplicação
-```
+- Arquitetura e Aplicações
+- Ativos e Configuração
+- Dados
+- Gestão de Serviços
+- Governança e Gestão
+- Infraestrutura
+- Monitoramento e Observabilidade
+- Segurança e Continuidade
 
 ---
 
-## Governança e Gestão
+### [Frameworks-and-Methods](https://github.com/Daniquiks/Frameworks-and-Methods)
 
-Principais temas estudados:
+Base dedicada ao estudo e consulta de **frameworks, métodos e práticas** utilizados em Tecnologia da Informação e gestão.
 
-- COBIT — Governança e gestão da informação e tecnologia
-- Governança de Inteligência Artificial
-- Governança de TI
-- ISO/IEC 20000 — Gestão de Serviços de TI
-- ISO/IEC 38500 — Governança de TI
-- ISO/IEC 42001 — Sistema de Gestão de Inteligência Artificial
-- ITIL — Gerenciamento de Serviços de TI
-- ITSM — Gerenciamento de Serviços de Tecnologia da Informação
-- NIST AI RMF — Gestão de riscos de Inteligência Artificial
+Entre os temas:
 
----
-
-## Infraestrutura e Operações
-
-Principais áreas técnicas:
-
-- Datacenter
-- Linux
-- Monitoramento
-- Redes
-- Servidores
-- Virtualização
-- Windows Server
-- Zabbix
-- Grafana
+- Agile
+- COBIT
+- ITIL
+- Kanban
+- Lean
+- PMBOK
+- Scrum
 
 ---
 
-## Ativos e Configuração
+## Tecnologias e ferramentas
 
-Estudos e aplicações relacionados a:
-
-- CMDB
-- Gestão de ativos de TI
-- Gestão de configuração
-- Inventário de TI
-- NetBox
-- OCS Inventory
-
----
-
-## Integrações e Automação
-
-Interesse no desenvolvimento de soluções para integração e automação de ambientes de TI utilizando:
+Algumas das tecnologias, ferramentas e plataformas presentes nos meus estudos e trabalhos:
 
 - APIs REST
-- JSON
+- Git e GitHub
+- Hyper-V
+- Linux
+- NetBox
 - PowerShell
 - Python
-- Webhooks
-- Workflows
-
-Aplicações voltadas principalmente à integração entre:
-
-```text
-Monitoramento
-      ↓
-Automação
-      ↓
-ITSM
-      ↓
-Inventário
-      ↓
-Indicadores
-```
-
----
-
-## Monitoramento e Observabilidade
-
-Estudos relacionados à disponibilidade, desempenho, confiabilidade e acompanhamento de serviços e infraestrutura.
-
-Principais temas:
-
-- Disponibilidade
-- Eventos e alertas
-- Logs
-- MTBF — Mean Time Between Failures
-- MTTA — Mean Time to Acknowledge
-- MTTD — Mean Time to Detect
-- MTTF — Mean Time to Failure
-- MTTR — Mean Time to Restore
-- Observabilidade
-- SRE
+- SQL
+- Windows Server
 - Zabbix
 
 ---
 
-## Projetos
-
-Os projetos desenvolvidos serão disponibilizados em repositórios independentes.
-
-A organização do perfil segue a seguinte lógica:
+## Organização do GitHub
 
 ```text
 Daniquiks
 │
 ├── Information-Technology
-│   └── Estudos, documentação e base técnica
+│   └── Base prática para estruturar e implementar TI
+│
+├── Frameworks-and-Methods
+│   └── Frameworks, métodos e práticas
 │
 └── Projetos
-    ├── Aplicações
-    ├── Automações
-    ├── Dashboards
-    ├── Integrações
-    └── Laboratórios
-```
-
----
-
-## Tecnologias e Ferramentas
-
-### Automação e Desenvolvimento
-
-- Git
-- GitHub
-- PowerShell
-- Python
-
-### Gestão e Governança
-
-- COBIT
-- ISO/IEC 20000
-- ITIL
-- ITSM
-
-### Infraestrutura e Operações
-
-- Hyper-V
-- Linux
-- NetBox
-- Windows Server
-- Zabbix
-
-### Integração e Dados
-
-- APIs REST
-- JSON
-- SQL
-
----
-
-## Formação Contínua
-
-Áreas atualmente priorizadas para aprofundamento:
-
-- Automação aplicada à operação de TI
-- Governança de Inteligência Artificial
-- Governança de Tecnologia da Informação
-- Gestão de Serviços de TI
-- Integração entre plataformas
-- Monitoramento e observabilidade
-
----
-
-## Estrutura do Portfólio
-
-Este GitHub está organizado em dois tipos principais de conteúdo:
-
-### Conhecimento
-
-Documentação, estudos, conceitos, normas, frameworks, procedimentos e exemplos técnicos.
-
-➡️ **[Information-Technology](https://github.com/Daniquiks/Information-Technology)**
-
-### Projetos
-
-Soluções práticas, códigos, automações, integrações, laboratórios e aplicações desenvolvidas a partir dos conhecimentos estudados.
-
----
-
-> Este perfil está em desenvolvimento contínuo, acompanhando minha evolução técnica e profissional em Tecnologia da Informação.
+    └── Aplicações, automações, integrações e laboratórios
